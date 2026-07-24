@@ -1,0 +1,14 @@
+/Users/ljx139/Projects/learn-more-stack/C#ASP.NET/Homework/PMS - Paint Management System - Week 1/Sample/bin/Debug/net10.0/Sample
+/Users/ljx139/Projects/learn-more-stack/C#ASP.NET/Homework/PMS - Paint Management System - Week 1/Sample/bin/Debug/net10.0/Sample.deps.json
+/Users/ljx139/Projects/learn-more-stack/C#ASP.NET/Homework/PMS - Paint Management System - Week 1/Sample/bin/Debug/net10.0/Sample.runtimeconfig.json
+/Users/ljx139/Projects/learn-more-stack/C#ASP.NET/Homework/PMS - Paint Management System - Week 1/Sample/bin/Debug/net10.0/Sample.dll
+/Users/ljx139/Projects/learn-more-stack/C#ASP.NET/Homework/PMS - Paint Management System - Week 1/Sample/bin/Debug/net10.0/Sample.pdb
+/Users/ljx139/Projects/learn-more-stack/C#ASP.NET/Homework/PMS - Paint Management System - Week 1/Sample/obj/Debug/net10.0/Sample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ljx139/Projects/learn-more-stack/C#ASP.NET/Homework/PMS - Paint Management System - Week 1/Sample/obj/Debug/net10.0/Sample.AssemblyInfoInputs.cache
+/Users/ljx139/Projects/learn-more-stack/C#ASP.NET/Homework/PMS - Paint Management System - Week 1/Sample/obj/Debug/net10.0/Sample.AssemblyInfo.cs
+/Users/ljx139/Projects/learn-more-stack/C#ASP.NET/Homework/PMS - Paint Management System - Week 1/Sample/obj/Debug/net10.0/Sample.csproj.CoreCompileInputs.cache
+/Users/ljx139/Projects/learn-more-stack/C#ASP.NET/Homework/PMS - Paint Management System - Week 1/Sample/obj/Debug/net10.0/Sample.dll
+/Users/ljx139/Projects/learn-more-stack/C#ASP.NET/Homework/PMS - Paint Management System - Week 1/Sample/obj/Debug/net10.0/refint/Sample.dll
+/Users/ljx139/Projects/learn-more-stack/C#ASP.NET/Homework/PMS - Paint Management System - Week 1/Sample/obj/Debug/net10.0/Sample.pdb
+/Users/ljx139/Projects/learn-more-stack/C#ASP.NET/Homework/PMS - Paint Management System - Week 1/Sample/obj/Debug/net10.0/Sample.genruntimeconfig.cache
+/Users/ljx139/Projects/learn-more-stack/C#ASP.NET/Homework/PMS - Paint Management System - Week 1/Sample/obj/Debug/net10.0/ref/Sample.dll
